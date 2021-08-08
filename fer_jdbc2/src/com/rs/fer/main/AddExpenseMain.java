@@ -31,7 +31,8 @@ public class AddExpenseMain {
 		} else {
 			System.out.println("Expense add is failed...........");
 		}
-
+		
+		System.out.println("Expense added Succesfully..........");
 	}
 
 }
