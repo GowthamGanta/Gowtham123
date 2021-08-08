@@ -31,7 +31,9 @@ public class EditExpenseMain {
 		} else {
 			System.out.println("Expense edit is failed...........");
 		}
-
+		
+		System.out.println("Expense edited Succesfully..........");
+		System.out.println("Expense edit is failed...........");
 	}
 
 }
